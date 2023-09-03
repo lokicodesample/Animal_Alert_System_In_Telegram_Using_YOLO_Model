@@ -1,0 +1,6 @@
+path: ../drive/MyDrive/ Mini_ProjectSEM6/Animal
+train: ../train/images
+val: ../valid/images
+
+nc: 12
+names: ['Boar','Cheetah','Deer','Elephant','Hyena','Jaguar','Leopard','Lion','Panda','Snake','Tiger','Wolf']
